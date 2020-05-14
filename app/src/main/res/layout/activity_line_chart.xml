@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:egUseCubic="true"
+       android:scrollbarStyle="insideInset"
         app:egUseOverlapFill="true"
         app:egCurveSmoothness="0.4"
         app:egIndicatorLineColor="#FE6DA8"
